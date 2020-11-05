@@ -1,16 +1,3 @@
-# mvvm_example
+# MVVM Flutter with jsonplaceholder
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![mvvm](https://user-images.githubusercontent.com/34714108/98251009-3bd92800-1f89-11eb-92c9-ca7c0a4e4cd6.gif)
